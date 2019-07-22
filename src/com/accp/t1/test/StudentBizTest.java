@@ -13,6 +13,5 @@ public class StudentBizTest {
 		for (Student s : student) {
 			System.out.println(s);	
 		}
-		System.err.println("12345575");
 	}
 }
